@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend & Backend Developer
 ----------------------------
 
-1\. 💡 About Me<br> I'm a passionate developer who loves bringing creative ideas to life through code. With a keen eye for design and functionality, I craft seamless digital experiences that are both visually appealing and highly efficient. ✨ <br>  2. 🎯 Goals & Interests<br> Mastering full-stack development with modern frontend and backend technologies. Building interactive and scalable web applications using React, Next.js, and Node.js.<br> 3. 🚀 Technologies I'm Studying<br> 🖥️ Frontend: HTML5 CSS3 JavaScript React Next.js Tailwind CSS 🗄️ Backend: Node.js Express.js MongoDB REST APIs<br> 4. 📚 Current Coursework<br> Setting up and customizing my GitHub account to showcase my projects and progress.<br> 5. 📫 How to Reach Me<br> 📧 Email: evalinemumbi13@gmail.com<br> 📱 Phone: +254 0111200850
-                  ### Socials
+1\. 💡 About Me<br> I'm a passionate developer who loves bringing creative ideas to life through code. With a keen eye for design and functionality, I craft seamless digital experiences that are both visually appealing and highly efficient. ✨ <br>  2. 🎯 Goals & Interests<br> Mastering full-stack development with modern frontend and backend technologies.<br> Building interactive and scalable web applications using React, Next.js, and Node.js.<br> 3. 🚀 Technologies I'm Studying<br> 🖥️ Frontend: HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS<br> 🗄️ Backend: Node.js, Express.js, MongoDB, REST APIs<br> 4. 📚 Current Coursework<br> Setting up and customizing my GitHub account to showcase my projects and progress.<br> 5. 📫 How to Reach Me<br> 📧 Email: evalinemumbi13@gmail.com<br> 📱 Phone: +254 0111200850
+                  
                   
                   
                 <p align="left">
